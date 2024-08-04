@@ -1,2 +1,2 @@
 # Game_Using_Python
-The game is to find the square and square root of number. It is GUI application developed by using pycharm IDE and python
+This is a GUI-based game application developed in python using the Pycharm IDE and the tkinter library. The game challenges users to find the squares and square roots of numbers.
